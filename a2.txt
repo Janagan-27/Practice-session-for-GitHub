@@ -1,2 +1,2 @@
 Hello everyone,, 
-              Here I learned, How push the file in GitHub.
+              Here I learned, How push the file in GitHub. And I now how to use the Git&GitHub
